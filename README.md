@@ -15,6 +15,19 @@ My name is Kasper and I'm a developer / student. I'm from Hong Kong. You can fin
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+# &#x1f4c8; GitHub Stats
+<a href="https://github.com/Kasper-Liu/Kasper-Liu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper-Liu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Kasper-Liu/Kasper-Liu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kasper-Liu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kasper's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Kasper-Liu/iTerm2-Color-Schemes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kasper-Liu&repo=iTerm2-Color-Schemes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
 
 
 [1]: https://www.facebook.com/kasper.liu.94/
