@@ -17,7 +17,7 @@ My name is Kasper and I'm a developer / student. I'm from Hong Kong. You can fin
 
 # &#x1f4c8; GitHub Stats
 <a href="https://github.com/Kasper-Liu/Kasper-Liu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper-Liu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper-Liu&hide=%22%22&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Kasper-Liu/Kasper-Liu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kasper-Liu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kasper's GitHub Stats" />
