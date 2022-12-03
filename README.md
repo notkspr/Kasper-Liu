@@ -1,7 +1,7 @@
-[![Header](https://raw.githubusercontent.com/Kasper-Liu/Kasper-Liu/main/images/header.png "Header")](https://github.com/Kasper-Liu)
+[![Header] Kasper Liu](https://github.com/Kasper-Liu)
 
 # Hey there! <img src="https://raw.githubusercontent.com/Kasper-Liu/Kasper-Liu/main/images/wave.gif" width="30px">
-My name is Kasper and I'm a developer / student. I'm from Hong Kong. You can find me on [Instagram][1].
+My name is Kasper and I'm a developer / student. I'm from Hong Kong. You can find me on [Instagram][1] or [Email][2].
 
 # 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
@@ -23,15 +23,5 @@ My name is Kasper and I'm a developer / student. I'm from Hong Kong. You can fin
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kasper-Liu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kasper's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Kasper-Liu/iTerm2-Color-Schemes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kasper-Liu&repo=iTerm2-Color-Schemes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Kasper-Liu/AppInventorAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kasper-Liu&repo=AppInventorAPI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-
-
 [1]: https://www.instagram.com/_kasper.liu_/
+[2]: mailto:kasperliu129@gmail.com
