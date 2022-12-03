@@ -1,4 +1,4 @@
-[![Header] Kasper Liu](https://github.com/Kasper-Liu)
+![Header] [Kasper Liu](https://github.com/Kasper-Liu)
 
 # Hey there! <img src="https://raw.githubusercontent.com/Kasper-Liu/Kasper-Liu/main/images/wave.gif" width="30px">
 My name is Kasper and I'm a developer / student. I'm from Hong Kong. You can find me on [Instagram][1] or [Email][2].
